@@ -43,6 +43,6 @@
 ## 🚀 Installation rapide
 
 ```bash
-git clone https://github.com/VOTRE_PSEUDO/shadowhunt.git
+git clone https://github.com/shadowhuntio7/shadowhunt.git
 cd shadowhunt
 chmod +x shadowhunt.sh
